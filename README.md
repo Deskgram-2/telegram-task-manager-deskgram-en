@@ -37,6 +37,14 @@ Task Manager is the Deskgram 2 dashboard for monitoring active and completed Tel
 
 ![Tasks List Main](assets/screenshots/tasks-list__main__en.png)
 
+### Statistics dashboard
+
+![Tasks Statistics](assets/screenshots/tasks-list__stats__en.png)
+
+### Task card
+
+![Task Card](assets/screenshots/tasks-list__task-card__en.png)
+
 ## When it is especially useful
 
 - when several modules are running at the same time;
