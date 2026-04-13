@@ -31,6 +31,14 @@ Task Manager is the Deskgram 2 dashboard for monitoring active and completed Tel
 3. Use filters to focus on the needed subset of tasks.
 4. Open history or stop problematic scenarios when needed.
 
+## Which workflows this page naturally controls
+
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en), when you need visibility into AI comment activity;
+- [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en), when outreach runs across multiple accounts;
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en), when parsing jobs run in parallel;
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en), when invite progress and failures must stay visible;
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en), when account activity workflows need operational monitoring.
+
 ## Interface highlight
 
 ### Main task table
@@ -68,6 +76,9 @@ Task Manager is the Deskgram 2 dashboard for monitoring active and completed Tel
 - [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en)
 - [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
 
 ## FAQ
 
