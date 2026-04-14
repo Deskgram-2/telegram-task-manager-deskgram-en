@@ -70,6 +70,22 @@ Task Manager is the Deskgram 2 dashboard for monitoring active and completed Tel
 | Problem tasks take longer to isolate | Quick task-level control is built in |
 | Errors are easy to miss | Status visibility is part of the workflow |
 
+## Use cases
+
+- controlling parallel campaigns when [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en), [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en), and [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) run together;
+- watching AI-heavy flows like [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en), where fast error detection matters;
+- monitoring the execution layer after the infrastructure is already prepared;
+- giving a team one operational control point when multiple Deskgram 2 workflows run in parallel.
+
+## What to choose: Task Manager or Account Manager
+
+| If your goal is | Better fit |
+|---|---|
+| See which workflows are running and what state they are in | `Task Manager` |
+| Build the account subset for a new scenario | [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) |
+| Stop a problematic process and review history | `Task Manager` |
+| Manage the account base rather than execution | [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) |
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
