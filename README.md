@@ -1,17 +1,17 @@
-# Telegram Task Manager with Deskgram 2
+﻿# Telegram Task Manager with Deskgram 2
 
 ![Task Manager Main](assets/screenshots/tasks-list__main__en.png)
 
 Task Manager is the Deskgram 2 dashboard for monitoring active and completed Telegram automation processes. It brings task tables, filters, statuses, statistics, and quick control actions into one operational view.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/tasks)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ftasks&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/app-demo/tasks)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ftasks&lang=en)
 
-Task scheduler: [Open scheduler](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fscheduler)
+Task scheduler: [Open scheduler](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fscheduler&lang=en)
 
 
 
@@ -114,3 +114,4 @@ Because the task dashboard gives you one operational picture across modules inst
 ### When is it most useful?
 
 Whenever multiple Telegram scenarios are running in parallel.
+
